@@ -1,0 +1,9 @@
+{
+	"name": "ecommerceADFv2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "97a0d810-68c6-4d21-b408-5d095513713e",
+		"tenantId": "8fbc02eb-1e20-4bbe-96d0-b66054443a73"
+	}
+}
